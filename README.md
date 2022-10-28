@@ -15,7 +15,7 @@ The web app can handle large number of visitors with fast speed. Admin password 
 
 [UI Wireframes](https://www.figma.com/file/M2MXUsAr4Mb2w7LZvhZ6A9/Vaccine-Waitlist-Wireframe?node-id=0%3A1)
 
-[![Design](https://user-images.githubusercontent.com/70772170/128935540-6a3678de-634d-45ab-b13b-41b4901c6483.png)](https://docs.google.com/presentation/d/1ilrINn-PJXj-hV2Gme7lCyV3c8sigh4pKNvF1WDuuaY/edit?usp=sharing)
+![Design](https://user-images.githubusercontent.com/70772170/128935540-6a3678de-634d-45ab-b13b-41b4901c6483.png)](https://docs.google.com/presentation/d/1ilrINn-PJXj-hV2Gme7lCyV3c8sigh4pKNvF1WDuuaY/edit?usp=sharing)
 (click to enlarge)
 
 ## Detailed Demo
